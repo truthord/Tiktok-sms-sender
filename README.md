@@ -1,4 +1,4 @@
-# Tiktok-sms-sender
+# Tiktok-sms-sender(full requests)
 - Support Proxies
 - Captcha Solver Include
 - Full Algorithms
